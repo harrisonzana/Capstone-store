@@ -1,0 +1,9 @@
+
+  body {
+    background-image: url('https://img1.wsimg.com/isteam/stock/673/:/cr=t:17.86%25,l:0%25,w:82.14%25,h:82.14%25/rs=w:1280,h:853');
+    /* Optionally, you can specify background properties like repeat, size, and position */
+    background-repeat: no-repeat; /* prevents the image from repeating */
+    background-size: cover; /* makes sure the image covers the entire background */
+    /* You can also use other values like "contain" or specific sizes */
+    background-position: center; /* positions the image at the center */
+}
